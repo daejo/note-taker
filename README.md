@@ -19,12 +19,16 @@
 
   ## Installation
 
-  _-_
+  _[Open app here](https://radiant-plains-56222.herokuapp.com/notes)_
 
 
   ## Usage 
 
-  _using_ 
+  - Open app through https://radiant-plains-56222.herokuapp.com/notes.
+  - Once in splash page click button to "Get Started".
+  - Type in a title for your note.
+  - Type in your note.
+  - Click save button to save. 
 
 
   ## Credits
@@ -34,7 +38,7 @@
 
   ## Contributing
 
-  _clone and edit_
+  _Free to use, clone and edit._
 
 
   ## Tests
