@@ -19,7 +19,7 @@
 
   ## Installation
 
-  _npm install_
+  _-_
 
 
   ## Usage 
