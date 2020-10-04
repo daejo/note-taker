@@ -1,7 +1,7 @@
-# note taker
+# Note Taker
   ![Top Language](https://img.shields.io/github/languages/top/daejo/note-taker)
   ![GitHub Language count](https://img.shields.io/github/languages/count/daejo/note-taker)
-  ![License](https://img.shields.io/badge/license-MIT_License-green.svg)
+  ![License](https://img.shields.io/badge/license-MIT_License-cyan.svg)
 
   ## Description 
 
@@ -13,18 +13,17 @@
   * [Usage](#usage)
   * [Credits](#credits)
   * [Contributing](#contributing)
-  * [Tests](#tests)
   * [Questions](#questions)
   
 
   ## Installation
 
-  _[Open app here](https://radiant-plains-56222.herokuapp.com/notes)_
+  _[Open app here](https://radiant-plains-56222.herokuapp.com/)_
 
 
   ## Usage 
 
-  - Open app through https://radiant-plains-56222.herokuapp.com/notes.
+  - Open app through https://radiant-plains-56222.herokuapp.com/.
   - Once in splash page click button to "Get Started".
   - Type in a title for your note.
   - Type in your note.
@@ -40,10 +39,6 @@
 
   _Free to use, clone and edit._
 
-
-  ## Tests
-
-  _n/a_
 
   ---
   ## Questions?
