@@ -27,7 +27,9 @@
   - Once in splash page click button to "Get Started".
   - Type in a title for your note.
   - Type in your note.
-  - Click save button to save. 
+  - Click save button to save.
+
+  [FULL WALKTHROUGH VIDEO HERE](https://drive.google.com/file/d/1wO0ysKd49H5E4X8vJo77uX0Ifzwh9xYd/view) 
 
 
   ## Credits
@@ -37,7 +39,7 @@
 
   ## Contributing
 
-  _Free to use, clone and edit._
+  _Free to use, clone, edit and improve._
 
 
   ---
