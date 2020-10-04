@@ -4,7 +4,7 @@ const PORT = process.env.PORT || 3001;
 const db = require('./db/db.json')
 const app = express();
 const fs = require("fs");
-const uniqid = require('uniqid'); // npm install iniqid
+const uniqid = require('uniqid'); // npm install uniqid
 
 // --- MIDDLEWARE ---
 // ===================================
@@ -35,9 +35,9 @@ app.get('/api/notes', (req,res) => {
 
 app.post("/api/notes", function(req, res) {
 
-    let newNote = req.body;
-    let newID = uniqid();
-    newNote.id = newID;
+    let newNote = req.body; //sets the format of your objects
+    let newID = uniqid(); //creates unique ID for your objects
+    newNote.id = newID; //sets unique ID for your objects
 
     fs.readFile("./db/db.json", (err, data) => {
         if (err) throw err;
